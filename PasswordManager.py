@@ -17,18 +17,18 @@ def view_pass():
                 search = input("Enter Username:")
                 if search.lower() == "quit":
                         break
-                found = False
+                found = 0
                 with open("password.txt","r") as f:
                         for line in f.readlines():
                                 data = line.rstrip()
                                 user,password = data.split("||")
                                 if(search==user):
                                         print("PASSWORD: ",fern.decrypt(password.encode()).decode())
-                                        found = True
+                                        found = 1
                                         break
                                         
                                 
-                        if found:
+                        if found==0:
                                 print("Invalid Username")
                 
                 
