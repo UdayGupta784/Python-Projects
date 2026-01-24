@@ -1,0 +1,21 @@
+Result For Section- B,Gender- BOTH,Gra- C
+Number Of Students- 16
+id      Name  Gender  Age Section  Science  English  History  Maths  Average Score  Overall Rank Grade  Filter Rank
+                                                                                                                  
+129      Susy  Female   15       B       28       94       61     72          63.75            36     C            1
+78       Jody    Male   15       B       87       45       73     48          63.25            38     C            2
+175    Shalom  Female   14       B       63        9       91     88          62.75            39     C            3
+231  Stillman    Male   15       B       50       70       31     98          62.25            41     C            4
+218      Zack    Male   13       B       72       46       40     90          62.00            42     C            5
+105   Jeannie    Male   13       B       68       97       31     48          61.00            43     C            6
+55       Lief    Male   15       B       55       64       56     69          61.00            43     C            7
+228  Maureene  Female   14       B       78       63       62     38          60.25            45     C            8
+177    Guntar    Male   13       B       92       36       59     48          58.75            49     C            9
+156     Sarah  Female   13       B       55       99        8     72          58.50            50     C           10
+249      Anni  Female   14       B       35       73       66     59          58.25            51     C           11
+102     Alvin  Female   13       B       80       28       53     67          57.00            54     C           12
+188   Ruperto  Female   14       B       60       55       30     83          57.00            54     C           13
+7     Ichabod  Female   14       B       38       74       54     60          56.50            56     C           14
+220     Tammy    Male   13       B       81       63       16     62          55.50            60     C           15
+236     Nadia  Female   15       B       98       30       37     56          55.25            61     C           16
+---------------------------------------------------------------------------------------------------------------------------------
