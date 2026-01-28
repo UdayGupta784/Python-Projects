@@ -21,7 +21,7 @@ while True:
         print("Game Tied")
         tie+=1
 
-     elif(
+    elif(
         (player_choice == "rock" and computer_choice == "scissors") or
         (player_choice == "scissors" and computer_choice == "paper") or
         (player_choice == "paper" and computer_choice == "rock")
